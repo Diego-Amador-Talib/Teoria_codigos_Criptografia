@@ -1,1 +1,2 @@
-# Teor-a-de-C-digos-y-Criptograf-a
+# Teoria_codigos_Criptografia
+Somos los mejores criptrografienses del mundo
